@@ -1,0 +1,11 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# source materials not part of the published site
+*.pdf
+*.mp4
+Reference.webp
+Reza_IMG.JPG
+Reza_IMG2.png
