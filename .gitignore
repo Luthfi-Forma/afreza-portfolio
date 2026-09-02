@@ -9,3 +9,6 @@ desktop.ini
 Reference.webp
 Reza_IMG.JPG
 Reza_IMG2.png
+
+# konfigurasi tooling lokal, jangan dipublikasikan
+.claude/
